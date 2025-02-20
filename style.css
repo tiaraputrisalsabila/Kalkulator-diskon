@@ -80,12 +80,13 @@ button {
 footer {
     width: 100%;
     text-align: center;
-    padding:10px;
-    background: rgb(255, 255, 255);
+    padding: 10px;
+    background: rgba(255, 255, 255);
     position: fixed;
-    bottom:0;
-    font-size: 15px;
+    bottom: 0;
+    font-size: 14px;
 }
+
 @media (max-width: 450px) {
     .input-item {
         flex-direction: column;
